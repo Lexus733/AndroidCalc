@@ -1,20 +1,20 @@
 <resources>
     <string name="app_name">Calculator</string>
     <string name="deleteButton">Delete</string>
-    <string name="button7">7</string>
-    <string name="button8">8</string>
-    <string name="button9">9</string>
-    <string name="buttonDivision">÷</string>
-    <string name="button4">4</string>
-    <string name="button5">5</string>
-    <string name="button6">6</string>
-    <string name="buttonMulty">*</string>
-    <string name="button1">1</string>
-    <string name="button2">2</string>
-    <string name="button3">3</string>
-    <string name="buttonMinus">-</string>
-    <string name="buttonDot">.</string>
-    <string name="buttonZero">0</string>
-    <string name="buttonEqual">=</string>
-    <string name="buttonPlus">+</string>
+    <string name="button7" translatable="false">7</string>
+    <string name="button8" translatable="false">8</string>
+    <string name="button9" translatable="false">9</string>
+    <string name="buttonDivision" translatable="false">÷</string>
+    <string name="button4" translatable="false">4</string>
+    <string name="button5" translatable="false">5</string>
+    <string name="button6" translatable="false">6</string>
+    <string name="buttonMulty" translatable="false">*</string>
+    <string name="button1" translatable="false">1</string>
+    <string name="button2" translatable="false">2</string>
+    <string name="button3" translatable="false">3</string>
+    <string name="buttonMinus" translatable="false">-</string>
+    <string name="buttonDot" translatable="false">.</string>
+    <string name="buttonZero" translatable="false">0</string>
+    <string name="buttonEqual" translatable="false">=</string>
+    <string name="buttonPlus" translatable="false">+</string>
 </resources>

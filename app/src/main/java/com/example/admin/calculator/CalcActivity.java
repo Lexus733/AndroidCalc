@@ -102,8 +102,8 @@ public class CalcActivity extends AppCompatActivity implements View.OnClickListe
     private void Calculate(){
     String calcText = inputField.getText().toString();
     String curValue = Calculator.Calculate();
-    resField.setText(calcText);
-    inputField.setText(curValue);
+    resField.setText(curValue);
+    inputField.setText(calcText);
     }
     private void Division(){
     inputField.append("÷");
